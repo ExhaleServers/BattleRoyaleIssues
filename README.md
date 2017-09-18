@@ -1,4 +1,4 @@
-# Issuetracker for Battle Royale
+# Battle Royale Issuetracker
 
 This is used to track bugs/issues and requests more easily with the community.
 
